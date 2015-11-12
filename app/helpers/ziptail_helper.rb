@@ -1,0 +1,2 @@
+module ZiptailHelper
+end
